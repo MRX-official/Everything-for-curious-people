@@ -52,5 +52,5 @@ Xnest :1
 ```
 xhost +targetip
 ```
-## References
+## Referencias
 * [All Shells](http://pentestmonkey.net/cheat-sheet/shells/reverse-shell-cheat-sheet)
