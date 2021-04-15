@@ -18,3 +18,8 @@ Esto se puede dividir nuevamente en más tipos:
 * Reflected URL
 
 El ataque de inyección reflejada se puede realizar de manera diferente según los métodos HTTP, es decir, GET y POST. Me gustaría recordar que con el método POST se están enviando datos y con el método GET se están solicitando datos.
+![HTML-Injection-method](HTML-Injection-method.jpg)
+
+
+## Referencias 
+* [Software Testing Help](https://www.softwaretestinghelp.com/html-injection-tutorial/)
