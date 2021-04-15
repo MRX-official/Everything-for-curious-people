@@ -10,10 +10,10 @@ http://example.com/index.php?page=../../../etc/passwd
 ```
 Para poder comprobar si un sitio es vulnerable se puede incluir un valor lógico.
 ```
-http://localhost/index.php?page=
+http://example.com/index.php?page=
 ```
 ```
-http://localhost/index.php?page=7se3
+http://example.com/index.php?page=7se3
 ```
 Si arroja un error como Warning: main()… o Warning: include()… o similar entonces es probable que sea vulnerable a RFI o LFI. 
 ## Código vulnerable
