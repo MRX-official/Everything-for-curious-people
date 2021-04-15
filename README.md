@@ -1,2 +1,2 @@
 # Welcome
-> This is my first proyect in github please use this information for educational purposes. I am not responsible for any misuse
+> Este es mi primer proyecto en github. Utilice esta información con fines educativos. No soy responsable de ningún mal uso.
