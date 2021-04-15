@@ -1,0 +1,2 @@
+# SMBMap
+> SMBMap permite a los usuarios enumerar las unidades compartidas de samba en todo un dominio. Enumera las unidades compartidas, los permisos de las unidades, los contenidos compartidos, la funcionalidad de carga / descarga, la coincidencia de patrones de descarga automática de nombres de archivo e incluso ejecute comandos remotos. Esta herramienta se diseñó teniendo en cuenta las pruebas de lápiz y está destinada a simplificar la búsqueda de datos potencialmente confidenciales en redes grandes.
